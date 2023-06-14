@@ -1,4 +1,4 @@
-# BarlowTwins
+# BYOL
 
 > [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)
 
